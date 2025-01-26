@@ -18,6 +18,7 @@ Also, the text box allows you to input any page, so it can also work as an unblo
 I'm not gonna be publically hosting this, so here's how you can host it yourself
 
 Local Hosting:
+<br>
 To deploy this website locally, follow these steps:
 
 1. Clone the repository: ```https://github.com/burnedpopcorn/Proxified-Ports.git```
