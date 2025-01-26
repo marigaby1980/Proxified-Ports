@@ -23,7 +23,7 @@ To deploy this website locally, follow these steps:
 1. Clone the repository: ```https://github.com/burnedpopcorn/Proxified-Ports.git```
 3. Navigate to the project directory: `cd Proxified-Ports`
 4. Run `index.html`, ```python3 -m http.server```, or your server of choice.
-5. Navigate to [localhost with port 3000](http://localhost:8000/)
+5. Click [HERE](http://localhost:8000/) to go to the Local Link
 <br><br>
 
 Hosting Services
