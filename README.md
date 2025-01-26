@@ -20,7 +20,7 @@ I'm not gonna be publically hosting this, so here's how you can host it yourself
 Local Hosting:
 <br>
 To deploy this website locally, follow these steps:
-
+<br>
 1. Clone the repository: ```https://github.com/burnedpopcorn/Proxified-Ports.git```
 3. Navigate to the project directory: `cd Proxified-Ports`
 4. Run `index.html`, ```python3 -m http.server```, or your server of choice.
