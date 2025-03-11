@@ -7,7 +7,7 @@ services:
     runtime: java
     repo: https://github.com/marigaby1980/Proxified-Ports
     buildCommand: "javac"
-    startCommand: "public static Runtime getRuntime()"
+    startCommand: "Runtime.getRuntime().exec("cmd /c start notepad.exe");"
     envVars:
       - key: DATABASE_URL # Sets DATABASE_URL to the connection string of the django-app-db database
         fromDatabase:
